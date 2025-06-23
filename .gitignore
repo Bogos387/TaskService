@@ -1,0 +1,6 @@
+*.mod
+*.exe
+*.test
+*.prof
+
+go.sum
